@@ -12,7 +12,7 @@ The mean normal body temperature was held to be 37 ∘∘ C or 98.6 ∘∘ F for
 In this exercise, I will analyze a dataset of human body temperatures and employ the concepts of hypothesis testing, confidence intervals, and statistical significance.
 
 
-I will answer the following questions in the python jupyter notebook file named inferential_statistics_human_body_temp_final.ipynb
+I will answer the following questions in the python jupyter notebook file named inferential_statistics_human_temp_final.ipynb
 
 <b>1) Is the distribution of body temperatures normal?</b>
   
